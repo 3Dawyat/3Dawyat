@@ -12,7 +12,7 @@
 
 
 ### :man_technologist: About Me :
-I bring a wealth of experience as a seasoned .NET Developer, boasting three years of hands-on expertise in the field. Graduating with high honors in Information Technology and Systems from Port Said University, I am driven by a fervent desire to secure a pivotal role that allows me to leverage my skills and knowledge for mutual advancement. My commitment to excellence, coupled with meticulous attention to detail, defines my approach to crafting top-tier solutions. I am eagerly seeking the opportunity to collaborate within a dynamic and innovative team environment, where my contributions can fuel continuous innovation
+I bring a wealth of experience as a seasoned .NET Developer, boasting 4 years of hands-on expertise in the field. Graduating with high honors in Information Technology and Systems from Port Said University, I am driven by a fervent desire to secure a pivotal role that allows me to leverage my skills and knowledge for mutual advancement. My commitment to excellence, coupled with meticulous attention to detail, defines my approach to crafting top-tier solutions. I am eagerly seeking the opportunity to collaborate within a dynamic and innovative team environment, where my contributions can fuel continuous innovation
 
 
 ### :mailbox: How To Reach Me :
