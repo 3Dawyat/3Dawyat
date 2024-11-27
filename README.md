@@ -10,17 +10,90 @@
   </h1>
 </div>
 
+# Senior .NET Developer
 
-### :man_technologist: About Me :
-I bring a wealth of experience as a seasoned .NET Developer, boasting 4 years of hands-on expertise in the field. Graduating with high honors in Information Technology and Systems from Port Said University, I am driven by a fervent desire to secure a pivotal role that allows me to leverage my skills and knowledge for mutual advancement. My commitment to excellence, coupled with meticulous attention to detail, defines my approach to crafting top-tier solutions. I am eagerly seeking the opportunity to collaborate within a dynamic and innovative team environment, where my contributions can fuel continuous innovation
+## 👨‍💻 About Me
+.NET Developer with 4+ years of professional experience in **C#**, **ASP.NET Core**, **API**, **SQL**, and **WinForms development**. I specialize in designing and implementing scalable, high-performance software solutions using modern .NET frameworks. My expertise includes optimizing databases, improving system efficiency, and creating robust applications that enhance user experience. Known for delivering reliable software and collaborating effectively with teams to achieve project success.
 
+---
 
-### :mailbox: How To Reach Me :
+## 🏢 Work Experience
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedaladawy/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ahmed01146322082@gmail.com)](mailto:ahmed01146322082@gmail.com)
-[![Yahoo](https://img.shields.io/badge/Yahoo-720E9E?style=for-the-badge&logo=yahoo&logoColor=white&link=mailto:ahmedaladawy50@yahoo.com)](mailto:ahmedaladawy50@yahoo.com)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=00201095358487)
-[![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/3Dawyatt/)
+### **Backend .NET Developer**
+**Alnasayan Tech** (Remote, Full-Time)  
+*Jan 2024 – Present | Cairo, Egypt*  
+- Developed backend solutions using .NET Core API.  
+**Achievements:**
+  - **Shop Store:** Built a multi-store platform enabling merchants to create stores with integrations for shipping companies and electronic payments.  
+  - **Alnasayan ERP:** Designed an ERP system supporting customized programs, branch integration, and comprehensive operation management.
 
+### **Full Stack .NET Developer**
+**E-Dever** (Remote, Part-Time)  
+*Jan 2024 – Present | Riyadh, Saudi Arabia*  
+- Developed full-stack solutions using **.NET Core MVC**, **HTML**, **CSS**, and **Bootstrap**.  
+**Achievements:**
+  - **Nuqwa:** Added SMS notifications and statistical reporting features.  
+  - **Al-Mrawani Store:** Integrated online payments, added detailed reports, and fixed order tracking issues.  
+  - **Masakin Tayibih:** Built a system for real estate management covering construction tracking, HR, and complaint handling.
+
+### **Full Stack .NET Developer**
+**ITS Technologies** (On-Site, Full-Time)  
+*Apr 2022 – Jan 2024 | Port Said, Egypt*  
+- Delivered full-stack solutions using **.NET Core MVC**, **API**, **DevExpress**, **Crystal Report**, **HTML**, **CSS**, and **Bootstrap**.  
+**Achievements:**
+  - **ITS ERP:** Created a desktop app for managing commercial facilities.  
+  - **API for Mobile App:** Built APIs to integrate ERP desktop apps with mobile platforms.  
+  - **Zi:** Developed a medical supplies store management system.  
+  - **Integra:** Created a container shipment tracking system with advanced reporting features.
+
+### **Full Stack .NET Developer**
+**E-Dever** (Remote, Part-Time)  
+*Jan 2021 – Mar 2022 | Riyadh, Saudi Arabia*  
+- Developed full-stack solutions using .NET Core MVC, HTML, CSS, and Bootstrap.  
+**Achievements:**
+  - **Radar System:** Optimized backend performance and reporting capabilities.  
+  - **Hamad Bin Muhaisin Foundation:** Enabled website appearance customization and optimized database queries.  
+  - **Naqwah:** Integrated SMS and email services, added functional reports.  
+
+---
+
+## 🎓 Education
+**Bachelor's Degree in Information Technology and Systems**  
+*2019 – 2023 | Port Said, Egypt*  
+- **Graduated with Very Good overall grade.**  
+- **Graduation Project:** *Saidaly-Tech* - A system for pharmacy operations, drug ordering, and patient data management, awarded an excellent grade.
+
+---
+
+## 🛠 Technical Skills
+
+### Frameworks & Technologies
+- **ASP.NET Core:** MVC, API, Razor, Blazor  
+
+### Architecture & Patterns
+- **Onion Architecture**, **N-tier Architecture**, **CQRS**  
+- **Repository Pattern**, **Generic Repository**, **Unit of Work**  
+- **Microservices**  
+
+### Reporting & UI Libraries
+- **DevExpress**, **Crystal Report**, **Xtra Report**, **QuestPDF**  
+
+### Databases
+- **Relational:** SQL Server, PostgreSQL, MySQL  
+- **NoSQL:** MongoDB  
+- **Data Access:** EF Core, Dapper, ADO.NET  
+
+### Frontend
+- **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **jQuery**  
+
+### DevOps & Collaboration
+- **Tools:** Azure DevOps, GitHub, Trello  
+- **CI/CD:** Continuous Integration/Deployment  
+- **Messaging:** Azure Service Bus, SignalR  
+
+---
+
+## 📬 Contact Me
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedaladawy/)  [![Yahoo](https://img.shields.io/badge/Yahoo-720E9E?style=for-the-badge&logo=yahoo&logoColor=white&link=mailto:ahmedaladawy50@yahoo.com)](mailto:ahmedaladawy50@yahoo.com)  [![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=00201095358487)  [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/3Dawyatt/)
 
